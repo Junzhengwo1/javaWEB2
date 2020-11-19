@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../javaWEBtomcat/JavaWEBtomcat/JavaWEBtomcat.iml" filepath="$PROJECT_DIR$/../javaWEBtomcat/JavaWEBtomcat/JavaWEBtomcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaWEB2.iml" filepath="$PROJECT_DIR$/javaWEB2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javaWEBtomcat2/javaWEBtomcat.iml" filepath="$PROJECT_DIR$/../javaWEBtomcat2/javaWEBtomcat.iml" />
+    </modules>
+  </component>
+</project>
